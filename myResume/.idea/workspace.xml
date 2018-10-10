@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7162ea69-8a01-45a1-8da3-dcc017de3ffa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-412995214">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="9" />
+          <entry key="json" value="1" />
+          <entry key="md" value="2" />
+          <entry key="ts" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="9" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="TypeScript" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="1" />
+          <entry key="TsLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="241" />
+          <entry key="json" value="3" />
+          <entry key="md" value="7" />
+          <entry key="ts" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="241" />
+          <entry key="JSON" value="3" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="TypeScript" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-487112186">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="6" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="6" />
+          <entry key="TsLintLanguageService" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="8" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="32" />
+          <entry key="json" value="2" />
+          <entry key="scss" value="2" />
+          <entry key="ts" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="32" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="2" />
+          <entry key="TypeScript" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="54" />
+          <entry key="html" value="503" />
+          <entry key="json" value="1" />
+          <entry key="ts" value="509" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="54" />
+          <entry key="HTML" value="503" />
+          <entry key="JSON" value="1" />
+          <entry key="TypeScript" value="509" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app-general</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/whoami/whoami.component.html" />
+        <option value="$PROJECT_DIR$/src/app/general/general.component.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/experience/experience.component.ts" />
+        <option value="$PROJECT_DIR$/angular.json" />
+        <option value="$PROJECT_DIR$/src/app/photo-info/photo-info.component.html" />
+        <option value="$PROJECT_DIR$/src/app/projects/projects.component.html" />
+        <option value="$PROJECT_DIR$/src/app/projects/projects.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/page-not-found/page-not-found.component.html" />
+        <option value="$PROJECT_DIR$/src/app/personality/personality.component.css" />
+        <option value="$PROJECT_DIR$/src/app/personality/personality.component.html" />
+        <option value="$PROJECT_DIR$/src/app/research/research.component.css" />
+        <option value="$PROJECT_DIR$/src/app/research/research.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.html" />
+        <option value="$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.css" />
+        <option value="$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.scss" />
+        <option value="$PROJECT_DIR$/src/main.ts" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/app/research/research.component.html" />
+        <option value="$PROJECT_DIR$/src/styles.css" />
+        <option value="$PROJECT_DIR$/src/app/introduction/introduction.component.html" />
+        <option value="$PROJECT_DIR$/src/app/introduction/texts/t1/t1.component.html" />
+        <option value="$PROJECT_DIR$/src/app/introduction/texts/t2/t2.component.html" />
+        <option value="$PROJECT_DIR$/src/app/introduction/texts/t3/t3.component.html" />
+        <option value="$PROJECT_DIR$/src/app/introduction/texts/texts.component.html" />
+        <option value="$PROJECT_DIR$/src/app/hobbys/hobbys.component.html" />
+        <option value="$PROJECT_DIR$/src/app/hobbys/hobbys.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/hobbys/hobbes.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="25" />
+    <option name="y" value="-1417" />
+    <option name="width" value="2059" />
+    <option name="height" value="1390" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myResume" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myResume" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myResume" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myResume" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myResume" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myResume" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="hobbys" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="myResume" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="Tests" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="$PROJECT_DIR$/src/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application" />
+      <item itemvalue="Karma.Tests" />
+      <item itemvalue="Protractor.E2E Tests" />
+      <item itemvalue="npm.Angular CLI Server" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7162ea69-8a01-45a1-8da3-dcc017de3ffa" name="Default Changelist" comment="" />
+      <created>1538480693816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538480693816</updated>
+      <workItem from="1538480694902" duration="5563000" />
+      <workItem from="1538487348068" duration="4594000" />
+      <workItem from="1538493574630" duration="4000" />
+      <workItem from="1538637007972" duration="3980000" />
+      <workItem from="1538660737909" duration="1349000" />
+      <workItem from="1539084014252" duration="2975000" />
+      <workItem from="1539093263429" duration="2788000" />
+      <workItem from="1539096976951" duration="495000" />
+      <workItem from="1539097705565" duration="348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="25" y="-1417" width="2059" height="1390" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.753862" visible="true" weight="0.3110893" />
+      <window_info id="Structure" order="1" sideWeight="0.246138" side_tool="true" weight="0.24970461" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29124087" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.753862" visible="true" weight="0.24970461" />
+      <window_info id="Structure" order="1" sideWeight="0.246138" side_tool="true" visible="true" weight="0.24970461" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.29124087" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/page-not-found/page-not-found.component.ts" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/src/app/whoami/whoami.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/general/general.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/experience/experience.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/projects/projects.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/photo-info/photo-info.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular.json" />
+    <entry file="file://$PROJECT_DIR$/src/app/projects/projects.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/page-not-found/page-not-found.component.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/src/app/personality/personality.component.css" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/app/research/research.component.css" />
+    <entry file="file://$PROJECT_DIR$/src/app/personality/personality.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/research/research.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.css" />
+    <entry file="file://$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.scss" />
+    <entry file="file://$PROJECT_DIR$/src/main.ts" />
+    <entry file="file://$PROJECT_DIR$/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/stagger-animation/stagger-animation.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/introduction.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/t1/t1.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/t3/t3.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/texts.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/texts.component.css" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/texts.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/t3/t3.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/introduction/texts/t2/t2.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/whoami/whoami.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/general/general.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/research/research.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/hobbys/hobbes.component.css" />
+    <entry file="file://$PROJECT_DIR$/src/app/hobbys/hobbes.component.html" />
+    <entry file="file://$PROJECT_DIR$/src/app/hobbys/hobbes.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/src/app/hobbys/hobbes.component.ts" />
+  </component>
+</project>
