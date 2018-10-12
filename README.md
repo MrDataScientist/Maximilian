@@ -11,7 +11,6 @@ username = '';
       <label>Username</label>
       <input type="text" class="form-control" [(ngModel)]="username">
       <p>{{ username }}</p>
-
       <button
         class="btn btn-primary"
         [disabled]="username === ''"
