@@ -6,7 +6,7 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-
+  username = '';
   allowNewServer = true;
   serverCreationStatus = 'test';
 
@@ -28,3 +28,8 @@ export class AppComponent implements OnInit {
     console.log(event);
   }
 }
+
+
+//TODO don't forget to check HttpClient / fetching data from an api using ES6
+//TODO underscore.js for Angular services
+//TODO Angular animation and materials
