@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  btnText: string = 'show';
+  btnText = 'show';
 
   toggle(): void {
     if (this.btnText === 'show') {
