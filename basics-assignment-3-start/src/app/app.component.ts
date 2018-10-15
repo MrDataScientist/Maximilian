@@ -6,13 +6,18 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  btnText = 'show';
+  btnTextShow = 'Hide Details';
+  btnTextHide = 'Display Details';
+  btnText = this.btnTextShow;
 
   toggle(): void {
-    if (this.btnText === 'show') {
-      this.btnText = 'Hide';
+    if (this.btnText === this.btnTextShow) {
+      this.btnText = this.btnTextHide;
     } else {
-      this.btnText = 'show';
+      this.btnText = this.btnTextShow;
     }
+  }
+
+  constructor() {
   }
 }
