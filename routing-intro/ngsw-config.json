@@ -10,6 +10,9 @@
           "/index.html",
           "/*.css",
           "/*.js"
+        ],
+        "urls": [
+          "https://fonts.googleapis.com/**"
         ]
       }
     }, {
@@ -22,5 +25,17 @@
         ]
       }
     }
-  ]
+  ],
+  "dataGroups": [
+  {
+    "name": "data-api",
+    "urls": [""],
+    "cacheConfig": {
+      "strategy": "freshness",
+      "maxSize": 20,
+      "maxAge": "1h",
+      "timeout": "5s"
+    }
+  }
+]
 }
