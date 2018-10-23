@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
+  topics = ['Angular', 'React', 'Vue'];
+
   constructor() { }
 
   ngOnInit() {

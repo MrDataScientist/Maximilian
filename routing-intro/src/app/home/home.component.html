@@ -1,15 +1,12 @@
 <div class="container">
   <div class="row">
 
-
     <div class="col">
       1 of 3
     </div>
 
-
     <div class="col-6">
         <h1>Bootcamp enrollment form</h1>
-
         <form>
           <div class="form-group">
             <label>Name:</label>
@@ -26,19 +23,26 @@
           <div class="form-group">
             <select class="custom-select">
               <option selected>I am interested in</option>
-              <option *ngFor="let topic of topics">{{topic}}</option>
+              <option *ngFor="let topic of topics"> {{ topic }}</option>
             </select>
+          </div>
+          <div class="mb-3">
+            <label>Time Preference</label>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="timePreference" value="morning">
+              <label class="form-check-label">Evening (9AM - 12PM)</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="timePreference" value="evening">
+              <label class="form-check-label">Evening (5PM - 8PM)</label>
+            </div>
           </div>
         </form>
     </div>
 
-
-
     <div class="col">
       3 of 3
     </div>
-
-
 
   </div>
 </div>
