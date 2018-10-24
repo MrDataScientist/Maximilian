@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import {User} from '../user';
 
 @Component({
   selector: 'app-home',
@@ -9,9 +10,9 @@ export class HomeComponent implements OnInit {
 
   topics = ['Angular', 'React', 'Vue'];
 
-  constructor() { }
+  userModel = new User('rob', 'rob@hjgjh.com', 34543543, '', 'morning', true);
 
-  ngOnInit() {
+  ngOnInit(): void {
   }
 
 }
