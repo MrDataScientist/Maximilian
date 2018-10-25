@@ -11,7 +11,7 @@ const routes: Routes = [
   {path: 'home', component: HomeComponent },
   {path: 'settings', component: SettingsComponent },
   {path: '**', component: PageNotFoundComponent }
-  ];
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
