@@ -4,11 +4,13 @@ import {HomeComponent} from './home/home.component';
 import {SettingsComponent} from './settings/settings.component';
 import {PageNotFoundComponent} from './page-not-found/page-not-found.component';
 import {IndexComponent} from './index/index.component';
+import {ContactComponent} from './contact/contact.component';
 
 const routes: Routes = [
   {path: '', redirectTo: '/home', pathMatch: 'full'},
   {path: 'index', component: IndexComponent },
   {path: 'home', component: HomeComponent },
+  {path: 'contact', component: ContactComponent },
   {path: 'settings', component: SettingsComponent },
   {path: '**', component: PageNotFoundComponent }
 ];
